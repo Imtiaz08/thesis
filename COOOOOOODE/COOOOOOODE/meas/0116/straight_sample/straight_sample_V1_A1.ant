@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<antenna>
+	<Signal_capabilities>
+		<Signal ID="GPS"> GPS_L1 </Signal>
+	</Signal_capabilities>
+	<nickname>  </nickname>
+	<switching_control> straight_sample_V1_A1_APC1.ant_pat_ctrl </switching_control>
+	<offsets> default_v1-0.aof </offsets>
+	<rx_clock_model>  </rx_clock_model>
+	<rx_clock_model_on> 0 </rx_clock_model_on>
+	<interference_sim>  </interference_sim>
+	<interference_on> 0 </interference_on>
+	<reflection_mp> straight_sample_V1_A1_RFL_MP1.rpatmp </reflection_mp>
+	<target_dop_value>  </target_dop_value>
+	<target_dop_value_on> 0 </target_dop_value_on>
+	<freq_counts><freq><name>GPS_L1</name><count>100</count></freq></freq_counts>
+</antenna>

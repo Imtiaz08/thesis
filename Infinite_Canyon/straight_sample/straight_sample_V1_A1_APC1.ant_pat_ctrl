@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<antenna_pattern_control>
+	<switching>  </switching>
+	<pat_L1_1> default_v1-0.ant_pat </pat_L1_1>
+	<phase_L1_1> default_v1-0.pha </phase_L1_1>
+	<switching_on> 0 </switching_on>
+	<pattern_per_freq> 0 </pattern_per_freq>
+	<phase_patterns_enabled> 0 </phase_patterns_enabled>
+	<level_patterns_enabled> 1 </level_patterns_enabled>
+	<delay_patterns_enabled> 0 </delay_patterns_enabled>
+</antenna_pattern_control>

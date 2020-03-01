@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<simgen_scenario>
+	<vehicles> 1 </vehicles>
+	<veh_file> straight_sample_V1.veh </veh_file>
+	<networks> 1 </networks>
+	<net_file> straight_sample_TN_GPS.net </net_file>
+	<app_opts_file> straight_sample_APP_OPTS1.app_opts </app_opts_file>
+	<atmos_file> straight_sample_AT1.atc </atmos_file>
+	<scen_desc_file>  </scen_desc_file>
+	<flex_file_id>  </flex_file_id>
+	<flex_max_signals> 2 </flex_max_signals>
+	<start_time> 03-Jul-2019 12:00:00 </start_time>
+	<duration> 200 </duration>
+	<host_time_enabled> 0 </host_time_enabled>
+	<leap_sec_option> automatic </leap_sec_option>
+	<num_fixed_leap_seconds> 15 </num_fixed_leap_seconds>
+	<leap_second_date> 31-Dec-2006 23:59:59 </leap_second_date>
+	<leap_second_step> 1 </leap_second_step>
+	<leap_second_notify_time> 0 </leap_second_notify_time>
+	<rtcm>  </rtcm>
+	<rtcm_enabled> 0 </rtcm_enabled>
+	<nmea>  </nmea>
+	<nmea_enabled> 0 </nmea_enabled>
+	<baro>  </baro>
+	<baro_enabled> 0 </baro_enabled>
+	<user_actions> beginning.act </user_actions>
+	<user_actions_enabled> 1 </user_actions_enabled>
+	<user_cmds>  </user_cmds>
+	<user_cmds_enabled> 0 </user_cmds_enabled>
+	<quick_look> default_v1-0.qlk </quick_look>
+	<ql_setup_enabled> 0 </ql_setup_enabled>
+	<ethernet>  </ethernet>
+	<ethernet_enabled> 0 </ethernet_enabled>
+	<nmea_input>  </nmea_input>
+	<nmea_input_enabled> 0 </nmea_input_enabled>
+	<leap_second_enabled> 0 </leap_second_enabled>
+	<yuma>  </yuma>
+	<wifi>  </wifi>
+	<wifi_enabled> 0 </wifi_enabled>
+	<rinex_obs> ../Shared/rinex.rinex-obs </rinex_obs>
+	<rinex_obs_enabled> 1 </rinex_obs_enabled>
+	<ref_signal>  </ref_signal>
+	<ref_signal_enabled> 0 </ref_signal_enabled>
+	<eop_file>  </eop_file>
+	<eop_file_enabled> 0 </eop_file_enabled>
+	<switch_modes>  </switch_modes>
+	<switch_modes_enabled> 0 </switch_modes_enabled>
+</simgen_scenario>

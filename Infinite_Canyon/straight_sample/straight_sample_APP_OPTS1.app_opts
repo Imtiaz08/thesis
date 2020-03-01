@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<application_options>
+	<bulk_logging_file> ../Shared/BULK.opt_bulk </bulk_logging_file>
+	<bulk_logging_enabled> 1 </bulk_logging_enabled>
+	<general_options_file>  </general_options_file>
+	<general_options_enabled> 0 </general_options_enabled>
+	<msg_reporting_file>  </msg_reporting_file>
+	<msg_reporting_enabled> 0 </msg_reporting_enabled>
+	<rs232_settings_file>  </rs232_settings_file>
+	<rs232_settings_enabled> 0 </rs232_settings_enabled>
+	<user_actions_file>  </user_actions_file>
+	<user_actions_enabled> 0 </user_actions_enabled>
+</application_options>

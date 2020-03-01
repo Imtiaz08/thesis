@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<transmitter_network>
+	<type> GPS </type>
+	<file> ../Shared/sigsrc.gps </file>
+	<ant_allocation>  </ant_allocation>
+	<antenna_pattern>  </antenna_pattern>
+	<phase_pattern>  </phase_pattern>
+	<is_antenna_pattern_enabled> 0 </is_antenna_pattern_enabled>
+	<is_same_for_all_freqs> 1 </is_same_for_all_freqs>
+	<num_freq_bands> 5 </num_freq_bands>
+	<antenna_pattern>  </antenna_pattern>
+	<antenna_pattern>  </antenna_pattern>
+	<antenna_pattern>  </antenna_pattern>
+	<antenna_pattern>  </antenna_pattern>
+	<phase_pattern>  </phase_pattern>
+	<phase_pattern>  </phase_pattern>
+	<phase_pattern>  </phase_pattern>
+	<phase_pattern>  </phase_pattern>
+	<is_interpolation_enabled> 0 </is_interpolation_enabled>
+	<is_user_motion_enabled> 0 </is_user_motion_enabled>
+	<num_user_motion_files> 32 </num_user_motion_files>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<user_motion_file_enabled> 0 </user_motion_file_enabled>
+	<user_motion_file>  </user_motion_file>
+	<is_simtest_almanac_enabled> 0 </is_simtest_almanac_enabled>
+	<simtest_almanac_file_path>  </simtest_almanac_file_path>
+	<is_simtest_multipath_enabled> 0 </is_simtest_multipath_enabled>
+	<simtest_multipath_attenuation> 0 </simtest_multipath_attenuation>
+	<is_simtest_multipath_range_offset> 0 </is_simtest_multipath_range_offset>
+	<gps_pps>  </gps_pps>
+	<gps_mnav>  </gps_mnav>
+	<gps_sds>  </gps_sds>
+	<is_pps_enabled> 0 </is_pps_enabled>
+	<is_sds_enabled> 0 </is_sds_enabled>
+</transmitter_network>

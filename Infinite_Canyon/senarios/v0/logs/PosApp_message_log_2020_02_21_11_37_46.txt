@@ -1,0 +1,290 @@
+PosApp_message_log_2020_02_21_11_37_46.txt created Fri Feb 21 11:37:46 2020
+
+Time into run | Message level | Message
+
+Warning: Signal generator GSS7000 #70000461 has no licence cabinet
+Info: Running in dummy mode ( No HW ), the search for COTS devices skipped. 
+Warning: C:/Program Files (x86)/Spirent Communications/Positioning Application/spirent_posapp_user_settings.json: cannot open file
+Warning: C:/Program Files (x86)/Spirent Communications/Positioning Application/spirent_posapp_user_settings.json: cannot open file
+Info: No user setting exist for user liy4hi, creating defaults
+Info: Checking new hardware configuration
+Info: Checking GSS7000 #70000461
+Info: GSS7000 #70000461 is not on the PCIe bus
+Info: Checking new hardware configuration
+Info: Checking GSS7000 #70000461
+Info: GSS7000 #70000461 is not on the PCIe bus
+Debug: GUI: user settings directory - C:/Program Files (x86)/Spirent Communications/Positioning Application/
+Debug: GUI: installation directory  - C:/Program Files (x86)/Spirent Communications/Positioning Application/
+Info: No user setting exist for user liy4hi, creating defaults
+Info: Checking new hardware configuration
+Info: Checking GSS7000 #70000461
+Info: GSS7000 #70000461 is not on the PCIe bus
+Debug: Single engine configuration "Default", unit 70000461: master (timing master if applicable)
+Debug: Single engine configuration "Default", unit 70000001: master (timing master if applicable)
+Debug: CEF initialised
+Warning: Could not connect to the instrument at IP address: 127.0.0.1:7701
+Info: Cannot process remote command: Cannot send to address 127.0.0.1 
+
+Data: ICFG DVI?, 'GET_PCIE_DRIVER_INFORMATION'
+Info: Cannot process remote command: Cannot send to address 127.0.0.1 
+
+Data: ICFG FWBUILD?, 'GET_GSS9000_LINUX_FIRMWARE_VERSION'
+Info: Loading scenario C:\Users\liy4hi\Desktop\Sprient_auto\Scenarios\v0\v0.scn
+Warning: Failed to override as default file, C:/Program Files (x86)/Spirent Communications/Positioning Application/IRNSS_data_sets/GIVD_IGP_Grid_based.IGV doesnt exist
+Info: Earth Orbital Parameter data is out of date with respect to current scenario start time.
+Info: Direct Pseudorange mode off
+Info: Earth Orbital Parameter data is out of date with respect to current scenario start time.
+00:00:00 Debug: Non-GUI scenario name change from "" to "c:/Users/liy4hi/Desktop/Sprient_auto/Scenarios/v0/v0.scn"
+00:00:00 Debug: CEF web helper created
+00:00:00 Debug: CEF web helper created
+00:00:00 Debug: CEF web helper created
+00:00:00 Debug: CEF web helper created
+00:00:00 Warning: Failed to override as default file, C:/Program Files (x86)/Spirent Communications/Positioning Application/IRNSS_data_sets/GIVD_IGP_Grid_based.IGV doesnt exist
+00:00:00 Debug: Error reading/writing to registry.
+Key: SimGEN
+Function: RegDeleteValue, code: 2 - Das System kann die angegebene Datei nicht finden.
+00:00:00 Warning: C:/Program Files (x86)/Spirent Communications/Positioning Application/spirent_posapp_user_settings.json: cannot open file
+00:00:00 Warning: ** Running in NO HARDWARE mode **
+00:00:00 Info: Number of external arm sources registered is: 0
+00:00:00 Info: IODC initialised to 24
+
+00:00:00 Info: IODC initialised to 12
+
+00:00:00 Info: IODC initialised to 78
+
+00:00:00 Info: IODC initialised to 278
+
+00:00:00 Info: IODC initialised to 82
+
+00:00:00 Info: IODC initialised to 57
+
+00:00:00 Info: IODC initialised to 49
+
+00:00:00 Info: IODC initialised to 80
+
+00:00:00 Info: IODC initialised to 7
+
+00:00:00 Info: IODC initialised to 42
+
+00:00:00 Info: IODC initialised to 105
+
+00:00:00 Info: IODC initialised to 44
+
+00:00:00 Info: IODC initialised to 94
+
+00:00:00 Info: IODC initialised to 49
+
+00:00:00 Info: IODC initialised to 9
+
+00:00:00 Info: IODC initialised to 63
+
+00:00:00 Info: IODC initialised to 51
+
+00:00:00 Info: IODC initialised to 13
+
+00:00:00 Info: IODC initialised to 25
+
+00:00:00 Info: IODC initialised to 44
+
+00:00:00 Info: IODC initialised to 61
+
+00:00:00 Info: IODC initialised to 4
+
+00:00:00 Info: IODC initialised to 54
+
+00:00:00 Info: IODC initialised to 26
+
+00:00:00 Info: IODC initialised to 77
+
+00:00:00 Info: IODC initialised to 51
+
+00:00:00 Info: IODC initialised to 85
+
+00:00:00 Info: IODC initialised to 17
+
+00:00:00 Info: IODC initialised to 106
+
+00:00:00 Info: IODC initialised to 186
+
+00:00:00 Info: IODC initialised to 69
+
+00:00:00 Info: IODC initialised to 15
+
+00:00:00 Warning: Motion model version is v2.71 onwards
+00:00:00 Info: Reference - latitude 151° 31.026', longitude -0° 6.372', height 2 m, heading 90° 0', speed 3 m/s, constant,v2.71 onwards
+00:00:00 Info: 0 s,   Straight - duration 32400 s, constant
+00:00:00 Info: Setting aiding advance to: 0 ms
+00:00:00 Info: Setting aiding advance to: 0 ms
+00:00:00 Info: Setting aiding advance to: 0 ms
+00:00:00 Info: Setting aiding advance to: 0 ms
+00:00:00 Info: Vehicle 1 aiding has been given a new offset at 00:00:00 into run
+00:00:00 Info: Vehicle 1 aiding has been given a new offset at 00:00:00 into run
+00:00:00 Info: Vehicle 1 aiding has been given a new offset at 00:00:00 into run
+00:00:00 Info: Vehicle 1 aiding has been given a new offset at 00:00:00 into run
+00:00:00 Info: Scenario v0.scn armed
+00:00:00 Info: No hardware ("dummy run"): ON 
+00:00:00 Info: Simulation iteration rate : 100 ms
+00:00:00 Info: Hardware configuration: "Default" 
+00:00:00 Info: External power gain: 0 dB
+00:00:00 Info: Maximum simulated satellites: 999 
+00:00:00 Info: Dump navigation data: OFF 
+00:00:00 Info: Dump signal generator messages: OFF 
+00:00:00 Info: Utilise timer card at 4 ms SIR: OFF 
+00:00:00 Info: Utilise timer card for all SIRs: OFF 
+00:00:00 Info: Prior data: simgen_priordatastreaming.bin 
+00:00:00 Info: Bulk logging::  
+00:00:00 Info:     Motion logging: ON 
+00:00:00 Info:     Satellite data logging: ON 
+00:00:00 Info:     Aiding logging: OFF 
+00:00:00 Info:     NCO logging: OFF 
+00:00:00 Info:     Log TOW not TIR: ON 
+00:00:00 Info:     Logging rate: 1000 ms
+00:00:00 Info:     Output file format: ascii 
+00:00:00 Info:     Output file directory: c:/Users/liy4hi/Desktop/Sprient_auto/Scenarios/v0/ 
+00:00:00 Info: Running scenario v0.scn; started on Fri Feb 21 11:39:01 2020 local time.
+00:00:00 Info: SimGEN V6.06.00 SVN revision 556603 
+
+00:00:00 Warning: Deleting the content of the existing Rinex_obs LOG dir 'c:/Users/liy4hi/Desktop/Sprient_auto/Scenarios/v0/rinex_obs/' to prepare this dir for a new scenario run.
+00:00:00 Info: Initialisation of Rinex Obs output was successful.
+00:00:02 Info: Turbo mode Off setting speed to 51
+00:00:02 Info: Turbo mode Off setting speed to 52
+00:00:02 Info: Turbo mode Off setting speed to 53
+00:00:02 Info: Turbo mode Off setting speed to 54
+00:00:02 Info: Turbo mode Off setting speed to 55
+00:00:02 Info: Turbo mode Off setting speed to 56
+00:00:02 Info: Turbo mode Off setting speed to 57
+00:00:02 Info: Turbo mode Off setting speed to 58
+00:00:02 Info: Turbo mode Off setting speed to 59
+00:00:02 Info: Turbo mode Off setting speed to 60
+00:00:02 Info: Turbo mode Off setting speed to 61
+00:00:02 Info: Turbo mode Off setting speed to 62
+00:00:02 Info: Turbo mode Off setting speed to 63
+00:00:02 Info: Turbo mode Off setting speed to 64
+00:00:02 Info: Turbo mode Off setting speed to 65
+00:00:02 Info: Turbo mode Off setting speed to 66
+00:00:02 Info: Turbo mode Off setting speed to 67
+00:00:02 Info: Turbo mode Off setting speed to 68
+00:00:02 Info: Turbo mode Off setting speed to 69
+00:00:02 Info: Turbo mode Off setting speed to 70
+00:00:02 Info: Turbo mode Off setting speed to 71
+00:00:02 Info: Turbo mode Off setting speed to 72
+00:00:02 Info: Turbo mode Off setting speed to 74
+00:00:02 Info: Turbo mode Off setting speed to 74
+00:00:02 Info: Turbo mode Off setting speed to 74
+00:00:05 Warning: Failed to override as default file, C:/Program Files (x86)/Spirent Communications/Positioning Application/IRNSS_data_sets/GIVD_IGP_Grid_based.IGV doesnt exist
+00:00:00 Info: Turbo mode On setting speed to 74
+00:00:00 Info: Turbo mode On setting speed to 76
+00:00:00 Info: Turbo mode On setting speed to 78
+00:00:00 Info: Turbo mode On setting speed to 79
+00:00:00 Info: Turbo mode On setting speed to 80
+00:00:00 Info: Turbo mode On setting speed to 82
+00:00:00 Info: Turbo mode On setting speed to 83
+00:00:00 Info: Turbo mode On setting speed to 84
+00:00:00 Info: Turbo mode On setting speed to 85
+00:00:00 Info: Turbo mode On setting speed to 86
+00:00:00 Info: Turbo mode On setting speed to 87
+00:00:00 Info: Turbo mode On setting speed to 87
+00:00:00 Info: Turbo mode On setting speed to 87
+00:00:00 Warning: ** Running in NO HARDWARE mode **
+00:00:00 Info: IODC initialised to 24
+
+00:00:00 Info: IODC initialised to 12
+
+00:00:00 Info: IODC initialised to 78
+
+00:00:00 Info: IODC initialised to 278
+
+00:00:00 Info: IODC initialised to 82
+
+00:00:00 Info: IODC initialised to 57
+
+00:00:00 Info: IODC initialised to 49
+
+00:00:00 Info: IODC initialised to 80
+
+00:00:00 Info: IODC initialised to 7
+
+00:00:00 Info: IODC initialised to 42
+
+00:00:00 Info: IODC initialised to 105
+
+00:00:00 Info: IODC initialised to 44
+
+00:00:00 Info: IODC initialised to 94
+
+00:00:00 Info: IODC initialised to 49
+
+00:00:00 Info: IODC initialised to 9
+
+00:00:00 Info: IODC initialised to 63
+
+00:00:00 Info: IODC initialised to 51
+
+00:00:00 Info: IODC initialised to 13
+
+00:00:00 Info: IODC initialised to 25
+
+00:00:00 Info: IODC initialised to 44
+
+00:00:00 Info: IODC initialised to 61
+
+00:00:00 Info: IODC initialised to 4
+
+00:00:00 Info: IODC initialised to 54
+
+00:00:00 Info: IODC initialised to 26
+
+00:00:00 Info: IODC initialised to 77
+
+00:00:00 Info: IODC initialised to 51
+
+00:00:00 Info: IODC initialised to 85
+
+00:00:00 Info: IODC initialised to 17
+
+00:00:00 Info: IODC initialised to 106
+
+00:00:00 Info: IODC initialised to 186
+
+00:00:00 Info: IODC initialised to 69
+
+00:00:00 Info: IODC initialised to 15
+
+00:00:00 Warning: Motion model version is v2.71 onwards
+00:00:00 Info: Reference - latitude 151° 31.026', longitude -0° 6.372', height 2 m, heading 90° 0', speed 3 m/s, constant,v2.71 onwards
+00:00:00 Info: 0 s,   Straight - duration 32400 s, constant
+00:00:00 Info: Setting aiding advance to: 0 ms
+00:00:00 Info: Setting aiding advance to: 0 ms
+00:00:00 Info: Setting aiding advance to: 0 ms
+00:00:00 Info: Setting aiding advance to: 0 ms
+00:00:00 Info: Number of external arm sources registered is: 0
+00:00:00 Info: Scenario v0.scn armed
+00:00:00 Info: No hardware ("dummy run"): ON 
+00:00:00 Info: Simulation iteration rate : 100 ms
+00:00:00 Info: Hardware configuration: "Default" 
+00:00:00 Info: External power gain: 0 dB
+00:00:00 Info: Maximum simulated satellites: 999 
+00:00:00 Info: Dump navigation data: OFF 
+00:00:00 Info: Dump signal generator messages: OFF 
+00:00:00 Info: Utilise timer card at 4 ms SIR: OFF 
+00:00:00 Info: Utilise timer card for all SIRs: OFF 
+00:00:00 Info: Prior data: simgen_priordatastreaming.bin 
+00:00:00 Info: Bulk logging::  
+00:00:00 Info:     Motion logging: ON 
+00:00:00 Info:     Satellite data logging: ON 
+00:00:00 Info:     Aiding logging: OFF 
+00:00:00 Info:     NCO logging: OFF 
+00:00:00 Info:     Log TOW not TIR: ON 
+00:00:00 Info:     Logging rate: 1000 ms
+00:00:00 Info:     Output file format: ascii 
+00:00:00 Info:     Output file directory: c:/Users/liy4hi/Desktop/Sprient_auto/Scenarios/v0/ 
+00:00:00 Info: Running scenario v0.scn; started on Fri Feb 21 11:39:26 2020 local time.
+00:00:00 Info: SimGEN V6.06.00 SVN revision 556603 
+
+00:00:00 Warning: Deleting the content of the existing Rinex_obs LOG dir 'c:/Users/liy4hi/Desktop/Sprient_auto/Scenarios/v0/rinex_obs/' to prepare this dir for a new scenario run.
+00:00:00 Info: Initialisation of Rinex Obs output was successful.
+00:34:33 Info: Scenario run has ended. Specified end time has been reached.
+00:35:00 Warning: Failed to override as default file, C:/Program Files (x86)/Spirent Communications/Positioning Application/IRNSS_data_sets/GIVD_IGP_Grid_based.IGV doesnt exist
+00:00:00 Warning: C:/Program Files (x86)/Spirent Communications/Positioning Application/spirent_posapp_user_settings.json: cannot open file
+00:00:00 Info: Zeroising keys in Secure DLL Proxy
+00:00:00 Debug: Error with GUI data streaming connection (read: End of file)

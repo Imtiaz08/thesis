@@ -1,0 +1,511 @@
+PosApp_engine_message_log_2020_02_21_11_37_46.txt created Fri Feb 21 11:37:46 2020
+
+Message level | Message
+
+Debug: User settings loaded, last user was REW2HI, current user is REW2HI
+Info: Platform specific setting: remote scramnet card type = 0.
+Info: Platform specific setting: scramnet node id = 1.
+Info: Platform specific setting: pac_engine_ip_address = 127.0.0.1.
+Info: Platform specific setting: default_ip_address = .
+Info: Platform specific setting: pac_gui_ip_address = 127.0.0.1.
+Info: Platform specific setting: mbox_mcast_ip_address = 224.1.1.1.
+Info: Platform specific setting: mbox_ctrlr_ip_address = 192.168.1.1.
+Info: Platform specific setting: mbox_ctrlr_sir = 100.
+Info: Platform specific setting: multicore_enable = false.
+Info: Platform specific setting: multicore_polling_enabled = false.
+Info: Platform specific setting: high rate period = 100.
+Info: Platform specific setting: multicore_channel_processing_core_start_number = 2.
+Info: Platform specific setting: multicore_channel_processing_sub_threads_number = 2.
+Info: Platform specific setting: multicore_ds_thread_number = 7.
+Info: Platform specific setting: multicore_high_rate_thread_core = -1.
+Info: Platform specific setting: multicore_low_rate_thread_core = -1.
+Info: Platform specific setting: multicore_main_core = 4.
+
+Info: File proxy not enabled
+Debug: Searching for devices on IEEE-488, IP and USB buses
+Info: Running in dummy mode ( No HW ), the search for COTS devices skipped. 
+Info: Reading licence
+Info: Licence: POSAPP_NO_HARDWARE SimGEN, PC lock code 804-*193CTL97X53A4Q8, no hardware, expiry date 15-May-2021
+Debug: Licence details editable: Galileo E1, Galileo E5, Galileo E6, WAAS L1, WAAS L5, EGNOS L1, EGNOS L5, MSAS L1, MSAS L5, GAGAN L1, GAGAN L5, GLONASS L1, GLONASS L2, GTx GPS L1, GTx GPS L2, GTx GLONASS L1, GTx GLONASS L2, SDCM L1, LAAS VDB, SimRoute, GSS7000 channel slider, Fixed offset multipath, Land mobile multipath, GPS P-code, Interferer, User motion, Aircraft, Spacecraft, Land Vehicle, Remote, Simple motion, Ship, Doppler offset, Legendre, Polynomial, Sinusoidal, Embedded multipath (fader), Load SCN files, Group power adjustment slider, Quick-look, Pseudorange ramp, RTCM, Turbo mode (fast forward), NMEA, Bulk logging, Barometric height serial output, Data streaming, User actions, User commands, Load SimGEN replay scenario, GPS L1C, Display slider expand control, Glonass P-Code, GPS L1, GPS L2, GPS L5, Multiple antennas, Full signal control, Multiple channels, Load replay scenarios, Get System Details
+Debug: Licence details loadable: 
+Debug: Licence details licensable: SimAUTO
+Debug: Extra remote commands 
+Info: Product: SimGEN, version V6.06.00 SVN revision 556603
+Info: Posix time:2020-Feb-21 11:37:47
+Message logger open
+Debug: Engine: user settings directory - C:/Program Files (x86)/Spirent Communications/Positioning Application/
+Debug: Engine: installation directory  - C:/Program Files (x86)/Spirent Communications/Positioning Application/
+Debug: Data Streaming Message Header Version major: 25
+Debug: Data Streaming Message Header Version minor: 1
+Debug: Sizeof Data Streaming Message is: 1472 bytes
+Debug: Sizeof Data Streaming Vehicle is: 336 bytes
+Debug: Sizeof Data Streaming Antenna is: 1112 bytes
+Debug: Sizeof Data Streaming Signal data is: 568 bytes
+Debug: Sizeof Data Streaming Signal Compact data is: 64 bytes
+Debug: Sizeof truth aiding data is: 192 bytes
+Debug: Sizeof truth aiding EGI data is: 256 bytes
+Debug: Sizeof INS aiding error model data is: 384 bytes
+Debug: Sizeof space vehicle data is: 96 bytes
+Debug: Sizeof Keplerian data is: 360 bytes
+Debug: Sizeof IMU data is: 208 bytes
+Debug: Sizeof SimSENSOR data is: 176 bytes
+Debug: Sizeof M navigation data is: 80 bytes
+Debug: Sizeof Legacy navigation data is: 68 bytes
+Debug: Sizeof Car motion sensor data is: 376 bytes
+Debug: Sizeof ULTS Reference Time is: 80 bytes
+Debug: Sizeof ULTS DGPS Corrections is: 208 bytes
+Debug: Sizeof ULTS Nav model is: 80 bytes
+Debug: Sizeof ULTS Iono model is: 8 bytes
+Debug: Sizeof ULTS UTC data is: 13 bytes
+Debug: Sizeof ULTS Almanac data is: 208 bytes
+Debug: Sizeof ULTS Acquisition Assistance is: 200 bytes
+Debug: Sizeof ULTS Integrity is: 17 bytes
+Debug: Sizeof sync info data is: 96 bytes
+Debug: Sizeof status data is: 16 bytes
+Debug: Sizeof ULTS_GANSS_Ref_Time data is: 16 bytes
+Debug: Sizeof ULTS_GANSS_Time_Model data is: 40 bytes
+Debug: Sizeof ULTS_DGANSS_Corrections data is: 272 bytes
+Debug: Sizeof ULTS_GLONASS_Nav_Model data is: 344 bytes
+Debug: Sizeof ULTS_GANSS_Integrity data is: 136 bytes
+Debug: Sizeof ULTS_GANSS_Ref_Info data is: 264 bytes
+Debug: Sizeof ULTS_GLONASS_Alm_Model data is: 336 bytes
+Debug: Sizeof ULTS_BeiDou_Alm_Model data is: 376 bytes
+Debug: Sizeof ULTS_BeiDou_Nav_Model data is: 376 bytes
+Debug: Sizeof ULTS_Galileo_Alm_Model data is: 376 bytes
+Debug: Sizeof ULTS_Galileo_Nav_Model data is: 376 bytes
+Debug: Sizeof DS_channel_update_data data is: 24 bytes
+Debug: Sizeof Rtcm_data data is: 1012 bytes
+Debug: Single engine configuration "Default", unit 70000461: master (timing master if applicable)
+Warning: Signal generator GSS7000 #70000461 has no licence cabinet
+Debug: Single engine configuration "Default", unit 70000001: master (timing master if applicable)
+Debug: Searching for devices on IEEE-488, IP and USB buses
+Info: Running in dummy mode ( No HW ), the search for COTS devices skipped. 
+Debug: UDP receiving task started on port 15650, compiled with header interface version 2
+Debug: UDP logging off
+Warning: C:/Program Files (x86)/Spirent Communications/Positioning Application/spirent_posapp_user_settings.json: cannot open file
+Warning: C:/Program Files (x86)/Spirent Communications/Positioning Application/spirent_posapp_user_settings.json: cannot open file
+Debug: User settings loaded, last user was REW2HI, current user is global
+Debug: Loading user settings for: global
+Debug: User settings loaded, last user was REW2HI, current user is liy4hi
+Info: No user setting exist for user liy4hi, creating defaults
+Info: Checking new hardware configuration
+Info: Checking GSS7000 #70000461
+Info: GSS7000 #70000461 is not on the PCIe bus
+Info: Checking new hardware configuration
+Info: Checking GSS7000 #70000461
+Info: GSS7000 #70000461 is not on the PCIe bus
+Debug: Loading user settings for: liy4hi
+Debug: User settings loaded, last user was REW2HI, current user is global
+Debug: Loading user settings for: global
+Debug: User settings loaded, last user was REW2HI, current user is liy4hi
+Info: No user setting exist for user liy4hi, creating defaults
+Info: Checking new hardware configuration
+Info: Checking GSS7000 #70000461
+Info: GSS7000 #70000461 is not on the PCIe bus
+Debug: Loading user settings for: liy4hi
+Debug: Set new settings for: liy4hi : {"version": "V6.06.00 SVN revision 556603"}
+Debug: BSD socket - Could not connect to server: connect() timed out. Please ensure server address <127.0.0.1:7701> is correct.  - Ein Verbindungsversuch ist fehlgeschlagen, da die Gegenstelle nach einer bestimmten Zeitspanne nicht richtig reagiert hat, oder die hergestellte Verbindung war fehlerhaft, da der verbundene Host nicht reagiert hat.
+Warning: Could not connect to the instrument at IP address: 127.0.0.1:7701
+Debug: Cannot send to address 127.0.0.1 
+
+Data: ICFG DVI?
+Info: Cannot process remote command: Cannot send to address 127.0.0.1 
+
+Data: ICFG DVI?, 'GET_PCIE_DRIVER_INFORMATION'
+Debug: Cannot send to address 127.0.0.1 
+
+Data: ICFG FWBUILD?
+Info: Cannot process remote command: Cannot send to address 127.0.0.1 
+
+Data: ICFG FWBUILD?, 'GET_GSS9000_LINUX_FIRMWARE_VERSION'
+Info: Loading scenario C:\Users\liy4hi\Desktop\Sprient_auto\Scenarios\v0\v0.scn
+Warning: Failed to override as default file, C:/Program Files (x86)/Spirent Communications/Positioning Application/IRNSS_data_sets/GIVD_IGP_Grid_based.IGV doesnt exist
+Info: Earth Orbital Parameter data is out of date with respect to current scenario start time.
+Debug: Reading Rinex file - Skipped unrecognised line #3: 'IGS BROADCAST EPHEMERIS FILE                                COMMENT             ' in C:/Users/liy4hi/Desktop/Sprient_auto/Scenarios/brdc1840.19n
+Info: Direct Pseudorange mode off
+Info: Earth Orbital Parameter data is out of date with respect to current scenario start time.
+Debug: Set new settings for: liy4hi : {"dump nav data": "false"}
+Debug: Set new settings for: liy4hi : {"dump orbits to SP3 file": "false"}
+Debug: Set new settings for: liy4hi : {"dump flex nav alm": "false"}
+Debug: Set new settings for: liy4hi : {"PRS Noise / M Noise alternate": "false"}
+Debug: Set new settings for: liy4hi : {"novatel msg delay": "100"}
+Debug: Set new settings for: liy4hi : {"max chans": "999"}
+Debug: Set new settings for: liy4hi : {"high rate period": "100"}
+Debug: Set new settings for: liy4hi : {"extern power gain": "0"}
+Debug: Set new settings for: liy4hi : {"prior_data": "simgen_priordatastreaming.bin"}
+Debug: Set new settings for: liy4hi : {"dummy run": "false"}
+Debug: Set new settings for: liy4hi : {"dummy run warning": "true"}
+Debug: Set new settings for: liy4hi : {"dump sig gen msgs": "false"}
+Debug: Set new settings for: liy4hi : {"auto repeat run": "false"}
+Debug: Set new settings for: liy4hi : {"simgen mode": "SimGEN"}
+Debug: Set new settings for: liy4hi : {"save_scenario_before_run": "false"}
+Debug: Set new settings for: liy4hi : {"just installed": "false"}
+Debug: Set new settings for: liy4hi : {"auto start mode": "false"}
+Debug: Set new settings for: liy4hi : {"auto run mode": "false"}
+Debug: Set new settings for: liy4hi : {"readonly editor msg": "true"}
+Debug: Set new settings for: liy4hi : {"use timer card": "false"}
+Debug: Set new settings for: liy4hi : {"use timer card for all simulation update rates": "false"}
+Debug: Set new settings for: liy4hi : {"disable xlts": "false"}
+Debug: Set new settings for: liy4hi : {"ch_centric_view": "false"}
+Debug: Set new settings for: liy4hi : {"stream signal data subset": "false"}
+Debug: Set new settings for: liy4hi : {"use_timer_card_no_hw_mode": "false"}
+Debug: Set new settings for: liy4hi : {"trigger mode": "0"}
+Debug: Set new settings for: liy4hi : {"gss4730 power level": "0"}
+Debug: Set new settings for: liy4hi : {"yuma almanac": ""}
+Debug: Set new settings for: liy4hi : {"rinex almanac": ""}
+Debug: Set new settings for: liy4hi : {"glonass alm almanac": ""}
+Debug: Set new settings for: liy4hi : {"glonass rsa almanac": ""}
+Debug: Set new settings for: liy4hi : {"glonass agl almanac": ""}
+Debug: Set new settings for: liy4hi : {"sem almanac": ""}
+Debug: Set new settings for: liy4hi : {"tle almanac": ""}
+Debug: Set new settings for: liy4hi : {"user_files_dir": "c:\"}
+Debug: Set new settings for: liy4hi : {"gss7725 waveforms dir": "C:/Program Files/Spirent Communications/Positioning Application/GSS7725/Waveforms/"}
+Debug: Set new settings for: liy4hi : {"mbox log dir": "/posapp/logs/"}
+Debug: Set new settings for: liy4hi : {"yuma rollover": "1"}
+Debug: Set new settings for: liy4hi : {"sem rollover": "1"}
+Debug: Set new settings for: liy4hi : {"upfinding pulse offset": "1"}
+Debug: Set new settings for: liy4hi : {"scenario log file age limit": "2592000000"}
+Debug: Set new settings for: liy4hi : {"replay_hardware_type": "GSS6700"}
+Debug: Set new settings for: liy4hi : {"replay_1rf_2vehicle": "false"}
+Debug: Set new settings for: liy4hi : {"replay_interference": "false"}
+Debug: Set new settings for: liy4hi : {"replay_number_of_outputs": "1"}
+Debug: Set new settings for: liy4hi : {"replay_channels_per_frequency": "8"}
+Warning: Failed to override as default file, C:/Program Files (x86)/Spirent Communications/Positioning Application/IRNSS_data_sets/GIVD_IGP_Grid_based.IGV doesnt exist
+Debug: Reading Rinex file - Skipped unrecognised line #3: 'IGS BROADCAST EPHEMERIS FILE                                COMMENT             ' in C:/Users/liy4hi/Desktop/Sprient_auto/Scenarios/brdc1840.19n
+Debug: Set new settings for: liy4hi : {"dump nav data": "false"}
+Debug: Set new settings for: liy4hi : {"dump orbits to SP3 file": "false"}
+Debug: Set new settings for: liy4hi : {"dump flex nav alm": "false"}
+Debug: Set new settings for: liy4hi : {"PRS Noise / M Noise alternate": "false"}
+Debug: Set new settings for: liy4hi : {"novatel msg delay": "100"}
+Debug: Set new settings for: liy4hi : {"max chans": "999"}
+Debug: Set new settings for: liy4hi : {"high rate period": "100"}
+Debug: Set new settings for: liy4hi : {"extern power gain": "0"}
+Debug: Set new settings for: liy4hi : {"prior_data": "simgen_priordatastreaming.bin"}
+Debug: Set new settings for: liy4hi : {"dummy run": "true"}
+Debug: Set new settings for: liy4hi : {"dummy run warning": "true"}
+Debug: Set new settings for: liy4hi : {"dump sig gen msgs": "false"}
+Debug: Set new settings for: liy4hi : {"auto repeat run": "false"}
+Debug: Set new settings for: liy4hi : {"simgen mode": "SimGEN"}
+Debug: Set new settings for: liy4hi : {"save_scenario_before_run": "false"}
+Debug: Set new settings for: liy4hi : {"just installed": "false"}
+Debug: Set new settings for: liy4hi : {"auto start mode": "false"}
+Debug: Set new settings for: liy4hi : {"auto run mode": "false"}
+Debug: Set new settings for: liy4hi : {"readonly editor msg": "true"}
+Debug: Set new settings for: liy4hi : {"use timer card": "false"}
+Debug: Set new settings for: liy4hi : {"use timer card for all simulation update rates": "false"}
+Debug: Set new settings for: liy4hi : {"disable xlts": "false"}
+Debug: Set new settings for: liy4hi : {"ch_centric_view": "false"}
+Debug: Set new settings for: liy4hi : {"stream signal data subset": "false"}
+Debug: Set new settings for: liy4hi : {"use_timer_card_no_hw_mode": "false"}
+Debug: Set new settings for: liy4hi : {"trigger mode": "0"}
+Debug: Set new settings for: liy4hi : {"gss4730 power level": "0"}
+Debug: Set new settings for: liy4hi : {"yuma almanac": ""}
+Debug: Set new settings for: liy4hi : {"rinex almanac": ""}
+Debug: Set new settings for: liy4hi : {"glonass alm almanac": ""}
+Debug: Set new settings for: liy4hi : {"glonass rsa almanac": ""}
+Debug: Set new settings for: liy4hi : {"glonass agl almanac": ""}
+Debug: Set new settings for: liy4hi : {"sem almanac": ""}
+Debug: Set new settings for: liy4hi : {"tle almanac": ""}
+Debug: Set new settings for: liy4hi : {"user_files_dir": "c:\"}
+Debug: Set new settings for: liy4hi : {"gss7725 waveforms dir": "C:/Program Files/Spirent Communications/Positioning Application/GSS7725/Waveforms/"}
+Debug: Set new settings for: liy4hi : {"mbox log dir": "/posapp/logs/"}
+Debug: Set new settings for: liy4hi : {"yuma rollover": "1"}
+Debug: Set new settings for: liy4hi : {"sem rollover": "1"}
+Debug: Set new settings for: liy4hi : {"upfinding pulse offset": "1"}
+Debug: Set new settings for: liy4hi : {"scenario log file age limit": "2592000000"}
+Debug: Set new settings for: liy4hi : {"replay_hardware_type": "GSS6700"}
+Debug: Set new settings for: liy4hi : {"replay_1rf_2vehicle": "false"}
+Debug: Set new settings for: liy4hi : {"replay_interference": "false"}
+Debug: Set new settings for: liy4hi : {"replay_number_of_outputs": "1"}
+Debug: Set new settings for: liy4hi : {"replay_channels_per_frequency": "8"}
+Warning: C:/Program Files (x86)/Spirent Communications/Positioning Application/spirent_posapp_user_settings.json: cannot open file
+Debug: Saving user settings for: liy4hi
+Warning: ** Running in NO HARDWARE mode **
+Info: Number of external arm sources registered is: 0
+Debug: SDC wait took 3 seconds
+Info: IODC initialised to 24
+
+Info: IODC initialised to 12
+
+Info: IODC initialised to 78
+
+Info: IODC initialised to 278
+
+Info: IODC initialised to 82
+
+Info: IODC initialised to 57
+
+Info: IODC initialised to 49
+
+Info: IODC initialised to 80
+
+Info: IODC initialised to 7
+
+Info: IODC initialised to 42
+
+Info: IODC initialised to 105
+
+Info: IODC initialised to 44
+
+Info: IODC initialised to 94
+
+Info: IODC initialised to 49
+
+Info: IODC initialised to 9
+
+Info: IODC initialised to 63
+
+Info: IODC initialised to 51
+
+Info: IODC initialised to 13
+
+Info: IODC initialised to 25
+
+Info: IODC initialised to 44
+
+Info: IODC initialised to 61
+
+Info: IODC initialised to 4
+
+Info: IODC initialised to 54
+
+Info: IODC initialised to 26
+
+Info: IODC initialised to 77
+
+Info: IODC initialised to 51
+
+Info: IODC initialised to 85
+
+Info: IODC initialised to 17
+
+Info: IODC initialised to 106
+
+Info: IODC initialised to 186
+
+Info: IODC initialised to 69
+
+Info: IODC initialised to 15
+
+Warning: Motion model version is v2.71 onwards
+Info: Reference - latitude 151° 31.026', longitude -0° 6.372', height 2 m, heading 90° 0', speed 3 m/s, constant,v2.71 onwards
+Debug: Posn: lat = 28.4829 degs, long_d = 179.8938 degs, height = 2 m, speed = 3 m/s, heading = 90 degs 
+Posn_X = -5610388.66861 m, Posn_Y = 10399.0898459 m, Posn_Z = 3023652.14708 m 
+
+Info: 0 s,   Straight - duration 32400 s, constant
+Info: Setting aiding advance to: 0 ms
+Info: Setting aiding advance to: 0 ms
+Info: Setting aiding advance to: 0 ms
+Info: Setting aiding advance to: 0 ms
+Info: Vehicle 1 aiding has been given a new offset at 00:00:00 into run
+Info: Vehicle 1 aiding has been given a new offset at 00:00:00 into run
+Info: Vehicle 1 aiding has been given a new offset at 00:00:00 into run
+Info: Vehicle 1 aiding has been given a new offset at 00:00:00 into run
+Debug: V1_A1 main-thread 0, first chan 0, last chan 75
+Info: Scenario v0.scn armed
+Info: No hardware ("dummy run"): ON 
+Info: Simulation iteration rate : 100 ms
+Info: Hardware configuration: "Default" 
+Info: External power gain: 0 dB
+Info: Maximum simulated satellites: 999 
+Info: Dump navigation data: OFF 
+Info: Dump signal generator messages: OFF 
+Info: Utilise timer card at 4 ms SIR: OFF 
+Info: Utilise timer card for all SIRs: OFF 
+Info: Prior data: simgen_priordatastreaming.bin 
+Info: Bulk logging::  
+Info:     Motion logging: ON 
+Info:     Satellite data logging: ON 
+Info:     Aiding logging: OFF 
+Info:     NCO logging: OFF 
+Info:     Log TOW not TIR: ON 
+Info:     Logging rate: 1000 ms
+Info:     Output file format: ascii 
+Info:     Output file directory: c:/Users/liy4hi/Desktop/Sprient_auto/Scenarios/v0/ 
+Info: Running scenario v0.scn; started on Fri Feb 21 11:39:01 2020 local time.
+Info: SimGEN V6.06.00 SVN revision 556603 
+
+Warning: Deleting the content of the existing Rinex_obs LOG dir 'c:/Users/liy4hi/Desktop/Sprient_auto/Scenarios/v0/rinex_obs/' to prepare this dir for a new scenario run.
+Info: Initialisation of Rinex Obs output was successful.
+00:00:02 Info: Turbo mode Off setting speed to 51
+00:00:02 Info: Turbo mode Off setting speed to 52
+00:00:02 Info: Turbo mode Off setting speed to 53
+00:00:02 Info: Turbo mode Off setting speed to 54
+00:00:02 Info: Turbo mode Off setting speed to 55
+00:00:02 Info: Turbo mode Off setting speed to 56
+00:00:02 Info: Turbo mode Off setting speed to 57
+00:00:02 Info: Turbo mode Off setting speed to 58
+00:00:02 Info: Turbo mode Off setting speed to 59
+00:00:02 Info: Turbo mode Off setting speed to 60
+00:00:02 Info: Turbo mode Off setting speed to 61
+00:00:02 Info: Turbo mode Off setting speed to 62
+00:00:02 Info: Turbo mode Off setting speed to 63
+00:00:02 Info: Turbo mode Off setting speed to 64
+00:00:02 Info: Turbo mode Off setting speed to 65
+00:00:02 Info: Turbo mode Off setting speed to 66
+00:00:02 Info: Turbo mode Off setting speed to 67
+00:00:02 Info: Turbo mode Off setting speed to 68
+00:00:02 Info: Turbo mode Off setting speed to 69
+00:00:02 Info: Turbo mode Off setting speed to 70
+00:00:02 Info: Turbo mode Off setting speed to 71
+00:00:02 Info: Turbo mode Off setting speed to 72
+00:00:02 Info: Turbo mode Off setting speed to 74
+00:00:02 Info: Turbo mode Off setting speed to 74
+00:00:02 Info: Turbo mode Off setting speed to 74
+00:00:05 Debug: End run command will be processed
+00:00:05 Debug: Low  13.842ms Min 6.213ms @ 2.000s Max 33.248ms @ 0.000s
+00:00:05 Debug: High 0.551ms Min 0.248ms @ 1.900s Max 0.878ms @ 0.800s
+00:00:05 Debug: Loop timings(ms): Lp period 100. Min wait 98 @ 300 Max_wait 100 @ 3400 Av wait 98.857140 tot wait 5536 over 56 loops
+00:00:05 Debug: Set new settings for: liy4hi : {"scen_end_rewind": "true"}
+Warning: Failed to override as default file, C:/Program Files (x86)/Spirent Communications/Positioning Application/IRNSS_data_sets/GIVD_IGP_Grid_based.IGV doesnt exist
+Debug: Reading Rinex file - Skipped unrecognised line #3: 'IGS BROADCAST EPHEMERIS FILE                                COMMENT             ' in C:/Users/liy4hi/Desktop/Sprient_auto/Scenarios/brdc1840.19n
+Info: Turbo mode On setting speed to 74
+Info: Turbo mode On setting speed to 76
+Info: Turbo mode On setting speed to 78
+Info: Turbo mode On setting speed to 79
+Info: Turbo mode On setting speed to 80
+Info: Turbo mode On setting speed to 82
+Info: Turbo mode On setting speed to 83
+Info: Turbo mode On setting speed to 84
+Info: Turbo mode On setting speed to 85
+Info: Turbo mode On setting speed to 86
+Info: Turbo mode On setting speed to 87
+Info: Turbo mode On setting speed to 87
+Info: Turbo mode On setting speed to 87
+Warning: ** Running in NO HARDWARE mode **
+Debug: SDC wait took 3 seconds
+Info: IODC initialised to 24
+
+Info: IODC initialised to 12
+
+Info: IODC initialised to 78
+
+Info: IODC initialised to 278
+
+Info: IODC initialised to 82
+
+Info: IODC initialised to 57
+
+Info: IODC initialised to 49
+
+Info: IODC initialised to 80
+
+Info: IODC initialised to 7
+
+Info: IODC initialised to 42
+
+Info: IODC initialised to 105
+
+Info: IODC initialised to 44
+
+Info: IODC initialised to 94
+
+Info: IODC initialised to 49
+
+Info: IODC initialised to 9
+
+Info: IODC initialised to 63
+
+Info: IODC initialised to 51
+
+Info: IODC initialised to 13
+
+Info: IODC initialised to 25
+
+Info: IODC initialised to 44
+
+Info: IODC initialised to 61
+
+Info: IODC initialised to 4
+
+Info: IODC initialised to 54
+
+Info: IODC initialised to 26
+
+Info: IODC initialised to 77
+
+Info: IODC initialised to 51
+
+Info: IODC initialised to 85
+
+Info: IODC initialised to 17
+
+Info: IODC initialised to 106
+
+Info: IODC initialised to 186
+
+Info: IODC initialised to 69
+
+Info: IODC initialised to 15
+
+Warning: Motion model version is v2.71 onwards
+Info: Reference - latitude 151° 31.026', longitude -0° 6.372', height 2 m, heading 90° 0', speed 3 m/s, constant,v2.71 onwards
+Debug: Posn: lat = 28.4829 degs, long_d = 179.8938 degs, height = 2 m, speed = 3 m/s, heading = 90 degs 
+Posn_X = -5610388.66861 m, Posn_Y = 10399.0898459 m, Posn_Z = 3023652.14708 m 
+
+Info: 0 s,   Straight - duration 32400 s, constant
+Info: Setting aiding advance to: 0 ms
+Info: Setting aiding advance to: 0 ms
+Info: Setting aiding advance to: 0 ms
+Info: Setting aiding advance to: 0 ms
+Debug: V1_A1 main-thread 0, first chan 0, last chan 75
+Info: Number of external arm sources registered is: 0
+Info: Scenario v0.scn armed
+Info: No hardware ("dummy run"): ON 
+Info: Simulation iteration rate : 100 ms
+Info: Hardware configuration: "Default" 
+Info: External power gain: 0 dB
+Info: Maximum simulated satellites: 999 
+Info: Dump navigation data: OFF 
+Info: Dump signal generator messages: OFF 
+Info: Utilise timer card at 4 ms SIR: OFF 
+Info: Utilise timer card for all SIRs: OFF 
+Info: Prior data: simgen_priordatastreaming.bin 
+Info: Bulk logging::  
+Info:     Motion logging: ON 
+Info:     Satellite data logging: ON 
+Info:     Aiding logging: OFF 
+Info:     NCO logging: OFF 
+Info:     Log TOW not TIR: ON 
+Info:     Logging rate: 1000 ms
+Info:     Output file format: ascii 
+Info:     Output file directory: c:/Users/liy4hi/Desktop/Sprient_auto/Scenarios/v0/ 
+Info: Running scenario v0.scn; started on Fri Feb 21 11:39:26 2020 local time.
+Info: SimGEN V6.06.00 SVN revision 556603 
+
+Warning: Deleting the content of the existing Rinex_obs LOG dir 'c:/Users/liy4hi/Desktop/Sprient_auto/Scenarios/v0/rinex_obs/' to prepare this dir for a new scenario run.
+Info: Initialisation of Rinex Obs output was successful.
+00:35:00 Info: Scenario run has ended. Specified end time has been reached.
+00:35:00 Debug: Loop timings(ms): Lp period 100. Min wait 0 @ 6100 Max_wait 100 @ 8900 Av wait 36.631618 tot wait 769264 over 21000 loops
+00:35:00 Debug: Set new settings for: liy4hi : {"scen_end_rewind": "true"}
+Warning: Failed to override as default file, C:/Program Files (x86)/Spirent Communications/Positioning Application/IRNSS_data_sets/GIVD_IGP_Grid_based.IGV doesnt exist
+Debug: Reading Rinex file - Skipped unrecognised line #3: 'IGS BROADCAST EPHEMERIS FILE                                COMMENT             ' in C:/Users/liy4hi/Desktop/Sprient_auto/Scenarios/brdc1840.19n
+Warning: C:/Program Files (x86)/Spirent Communications/Positioning Application/spirent_posapp_user_settings.json: cannot open file
+Debug: Saving user settings for: liy4hi
+Debug: Set new settings for: liy4hi : {"remote manual start": "false"}
+Debug: Set new settings for: liy4hi : {"remote from file": "false"}
+Debug: Set new settings for: liy4hi : {"remote from ieee": "false"}
+Debug: Set new settings for: liy4hi : {"remote from rs232": "false"}
+Debug: Set new settings for: liy4hi : {"remote file": "test.mot"}
+Debug: Set new settings for: liy4hi : {"remote ieee address": "1"}
+Debug: Set new settings for: liy4hi : {"remote output file on": "false"}
+Debug: Set new settings for: liy4hi : {"remote output file": "remote_output.ucd"}
+Debug: Set new settings for: liy4hi : {"remote from scramnet": "false"}
+Debug: Set new settings for: liy4hi : {"scramnet node id": "1"}
+Debug: Set new settings for: liy4hi : {"remote scramnet card type": "0"}
+Debug: Set new settings for: liy4hi : {"scramnet protocol": "0"}
+Debug: Set new settings for: liy4hi : {"scramnet offset": "0"}
+Debug: Set new settings for: liy4hi : {"scramnet bigendian format": "false"}
+Debug: Set new settings for: liy4hi : {"remote udp logging enabled": "false"}
+Debug: Set new settings for: liy4hi : {"remote udp logging file": "remote_dump.bin"}
+Debug: Set new settings for: liy4hi : {"clear remote udp logging file": "false"}
+Debug: Set new settings for: liy4hi : {"remote command buffer size": "10000"}
+Debug: Set new settings for: liy4hi : {"h/w config": "Default"}
+Debug: Set new settings for: liy4hi : {"novatel o/p": "false"}
+Debug: Set new settings for: liy4hi : {"default scenario dir": "c:/Users/liy4hi/Desktop/Sprient_auto/Scenarios/"}
+Debug: Set new settings for: liy4hi : {"replay tmp dir": "C:/Program Files (x86)/Spirent Communications/Positioning Application/Scenarios for replay/"}
+Info: Exit command received
+Info: Engine shutting down
+Warning: C:/Program Files (x86)/Spirent Communications/Positioning Application/spirent_posapp_user_settings.json: cannot open file
+Debug: Looping_thread::terminate: failed to stop after 200 tries
+Debug: Closing GUI data streaming acceptor (accept: Ein Blockierungsvorgang wurde durch einen Aufruf von WSACancelBlockingCall unterbrochen)

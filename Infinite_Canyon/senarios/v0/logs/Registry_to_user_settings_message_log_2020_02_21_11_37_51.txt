@@ -1,0 +1,5 @@
+Registry_to_user_settings_message_log_2020_02_21_11_37_51.txt created Fri Feb 21 11:37:51 2020
+
+Message level | Message
+
+Info: User settings loaded, last user was REW2HI current user is REW2HI

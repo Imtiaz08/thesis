@@ -1,0 +1,5 @@
+Registry_to_user_settings_message_log_2019_11_04_15_45_43.txt created Mon Nov 04 15:45:43 2019
+
+Message level | Message
+
+Info: User settings loaded, last user was min2hi current user is min2hi

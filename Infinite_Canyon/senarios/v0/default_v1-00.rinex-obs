@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<rinex_obs_defn>
+	<is_output_rinex_obs_interval_logging_rate> yes </is_output_rinex_obs_interval_logging_rate>
+	<step_output_rinex_obs_interval_logging_rate> 00:00:01 </step_output_rinex_obs_interval_logging_rate>
+	<rinex_obs_version_id> 0 </rinex_obs_version_id>
+	<rinex_obs_data_rate_id> 0 </rinex_obs_data_rate_id>
+	<rinex_obs_sig_strength_id> 0 </rinex_obs_sig_strength_id>
+	<GPS>
+		<is_enabled> no </is_enabled>
+		<L1_CA>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</L1_CA>
+		<L1_P>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</L1_P>
+		<L2_CA>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</L2_CA>
+		<L2_P>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</L2_P>
+		<L5_I>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</L5_I>
+	</GPS>
+	<GLONASS>
+		<is_enabled> no </is_enabled>
+		<L1_CA>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</L1_CA>
+		<L1_P>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</L1_P>
+		<L2_CA>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</L2_CA>
+		<L2_P>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</L2_P>
+	</GLONASS>
+	<GALILEO>
+		<is_enabled> no </is_enabled>
+		<E1_A>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</E1_A>
+		<E1_B>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</E1_B>
+		<E1_C>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</E1_C>
+		<E6_A>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</E6_A>
+		<E6_B>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</E6_B>
+		<E6_C>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</E6_C>
+		<E5_AI>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</E5_AI>
+		<E5_AQ>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</E5_AQ>
+	</GALILEO>
+	<BeiDou>
+		<is_enabled> no </is_enabled>
+		<B1i_I>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</B1i_I>
+		<B2i_I>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</B2i_I>
+		<B3i_I>
+			<is_pseudorange> no </is_pseudorange>
+			<is_doppler> no </is_doppler>
+			<is_carrier_phase> no </is_carrier_phase>
+			<is_sig_strength> no </is_sig_strength>
+		</B3i_I>
+	</BeiDou>
+</rinex_obs_defn>

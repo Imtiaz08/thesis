@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<bulk_logging>
+	<aiding_logging_on>no</aiding_logging_on>
+	<nco_logging_on>no</nco_logging_on>
+	<motion_logging_on>yes</motion_logging_on>
+	<sat_data_logging_on>yes</sat_data_logging_on>
+	<decimal_tow_on>no</decimal_tow_on>
+	<logging_rate_ms>1000</logging_rate_ms>
+	<output_format>binary</output_format>
+	<use_scenario_dir>yes</use_scenario_dir>
+	<output_file_dir></output_file_dir>
+</bulk_logging>

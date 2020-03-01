@@ -1,0 +1,5 @@
+Antenna_Pattern_Editor_message_log_2020_02_21_11_01_54.txt created Fri Feb 21 11:01:54 2020
+
+Message level | Message
+
+Info: Product: SimGEN, version 3.2.0.0

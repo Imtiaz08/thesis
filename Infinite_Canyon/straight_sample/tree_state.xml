@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<tree_branch_expanded>
+	<scenario> yes </scenario>
+	<scenario_control_options> yes </scenario_control_options>
+	<scenario_atmosphere> yes </scenario_atmosphere>
+	<scenario_options> yes </scenario_options>
+	<scenario_gps_constellation> yes </scenario_gps_constellation>
+	<scenario_vehicle_1> yes </scenario_vehicle_1>
+	<vehicle_1_motion> yes </vehicle_1_motion>
+	<vehicle_1_options> yes </vehicle_1_options>
+	<vehicle_1_antenna_1> yes </vehicle_1_antenna_1>
+	<antenna_1_options> yes </antenna_1_options>
+	<antenna_1_antenna_pattern_control> yes </antenna_1_antenna_pattern_control>
+</tree_branch_expanded>

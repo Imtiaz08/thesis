@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<vehicle>
+	<type> car </type>
+	<antennas> 1 </antennas>
+	<ant_file> v0_V1_A1.ant </ant_file>
+	<motion> v0_V1_M1.mot </motion>
+	<nickname>  </nickname>
+	<spin_model_enabled> 0 </spin_model_enabled>
+</vehicle>

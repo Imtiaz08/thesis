@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<reflection_pattern_multipath>
+	<enabled> 0 </enabled>
+	<attenuation_file>  </attenuation_file>
+	<delay_file>  </delay_file>
+</reflection_pattern_multipath>

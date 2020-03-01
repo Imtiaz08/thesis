@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<terr_per>
+	<max_lin_vel> 2.5000000000000000e+02 </max_lin_vel>
+	<max_lin_acc> 5.0000000000000000e+01 </max_lin_acc>
+	<max_lin_jerk> 5.0000000000000000e+02 </max_lin_jerk>
+	<max_lat_acc> 7.0000000000000000e+01 </max_lat_acc>
+	<max_lat_jerk> 5.0000000000000000e+02 </max_lat_jerk>
+	<max_yaw_rate> 7.0000000000000000e+00 </max_yaw_rate>
+	<max_yaw_acc> 7.0000000000000000e+01 </max_yaw_acc>
+	<max_yaw_jerk> 7.0000000000000000e+02 </max_yaw_jerk>
+	<max_elevation_angle> 1.5707963267948966e+00 </max_elevation_angle>
+	<max_pitch_rate> 7.0000000000000000e+00 </max_pitch_rate>
+	<max_pitch_acc> 7.0000000000000000e+01 </max_pitch_acc>
+	<max_pitch_jerk> 7.0000000000000000e+02 </max_pitch_jerk>
+	<max_bank_angle> 3.1415926535897931e+00 </max_bank_angle>
+	<max_roll_rate> 7.0000000000000000e+00 </max_roll_rate>
+	<max_roll_acc> 7.0000000000000000e+01 </max_roll_acc>
+	<max_roll_jerk> 7.0000000000000000e+02 </max_roll_jerk>
+</terr_per>

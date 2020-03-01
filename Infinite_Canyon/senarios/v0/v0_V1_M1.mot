@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<motion_model>
+	<init_ref>  </init_ref>
+	<cmd> 3mpers.ccm </cmd>
+	<personality> default_v1-0.tep </personality>
+	<obscuration_cmds>  </obscuration_cmds>
+	<terrain_obscuration>  </terrain_obscuration>
+	<terrain_obscuration_enabled> 0 </terrain_obscuration_enabled>
+	<land_mobile_multipath>  </land_mobile_multipath>
+	<land_mobile_multipath_enabled> 0 </land_mobile_multipath_enabled>
+	<sea_state>  </sea_state>
+	<car_motion_sensors>  </car_motion_sensors>
+	<car_motion_sensors_enabled> 0 </car_motion_sensors_enabled>
+	<vertical_plane>  </vertical_plane>
+	<vertical_plane_enabled> 0 </vertical_plane_enabled>
+	<user_motion> v0.umt </user_motion>
+	<user_motion_enabled> 0 </user_motion_enabled>
+	<ults_motion>  </ults_motion>
+	<ults_motion_enabled> 0 </ults_motion_enabled>
+	<g_sensitivity>  </g_sensitivity>
+	<g_sensitivity_enabled> 0 </g_sensitivity_enabled>
+	<INS>  </INS>
+	<INS_enabled> 0 </INS_enabled>
+	<INS_2>  </INS_2>
+	<INS_enabled_2> 0 </INS_enabled_2>
+	<INS_3>  </INS_3>
+	<INS_enabled_3> 0 </INS_enabled_3>
+	<INS_4>  </INS_4>
+	<INS_enabled_4> 0 </INS_enabled_4>
+</motion_model>

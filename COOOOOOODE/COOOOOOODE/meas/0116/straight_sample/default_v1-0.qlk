@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<quick_look>
+	<log>  </log>
+	<display>  </display>
+	<plot>  </plot>
+	<logging_params>
+		<Truth_data_logging>
+			<enabled> no </enabled>
+			<rate> 1000 </rate>
+			<file> post_proc.csv </file>
+			<continuous> yes </continuous>
+			<on_off_times>
+			</on_off_times>
+		</Truth_data_logging>
+	</logging_params>
+</quick_look>
